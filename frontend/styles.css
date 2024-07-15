@@ -1,0 +1,10 @@
+/* frontend/style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#results img {
+    max-width: 100%;
+    height: auto;
+}
